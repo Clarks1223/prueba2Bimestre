@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "860116772302",
-    "project_id": "prueba2bim",
-    "storage_bucket": "prueba2bim.appspot.com"
+    "project_number": "531442574958",
+    "project_id": "movil2bimestre",
+    "storage_bucket": "movil2bimestre.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:860116772302:android:8819ae2ec21032135b779f",
+        "mobilesdk_app_id": "1:531442574958:android:4ce34ccabb86fc5647287f",
         "android_client_info": {
           "package_name": "com.bimsina.movies"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCbcS0P_esMBW5449d7thuRmKQWmd7jJhg"
+          "current_key": "AIzaSyBSs5T0w8_10NM3QlJnDi0-xWrLpsx4tQU"
         }
       ],
       "services": {
